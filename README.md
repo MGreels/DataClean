@@ -1,9 +1,9 @@
 ### DataClean Project
-#1 
 
-run analysis.R performs a 5 step process for cleaning the dataset provided at this links 
+run analysis.R performs a 5 step process for cleaning the dataset provided at this link
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-# 1. Step 1 
+# Step 1 
 Downloads all test and training data for subjects (1-30), activities (1-6) and 561 acceleration measurements per instance.  Creates 1 large dataset with all of these together
 
 # Step 2
